@@ -1,5 +1,5 @@
-## Hi I'm Shiven! 👋
-Incoming junior studying CS w/concentration in Software Engineering at Arizona State University
+## Hi I'm Shiven!
+I'm an incoming junior studying CS with a Software Engineering concentration at Arizona State University. I'm interested in the Full Stack, DevOps, and Machine Learning.
 
 <!--
 **shiven01/shiven01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
