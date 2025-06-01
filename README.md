@@ -7,7 +7,7 @@ I'm a senior studying Computer Science with a Software Engineering concentration
 
 ## Experience
  - 2x SWE Intern @ Apple
- - Research Assistant & ASU Computer Vision Lab
+ - Research Assistant @ ASU Computer Vision Lab
 
 <!--
 **shiven01/shiven01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
